@@ -1,0 +1,5 @@
+[user]
+	name = Taylor Growden
+	email = taylorgrowden@gmail.com
+[core]
+	excludesfile = ~/.gitignore
